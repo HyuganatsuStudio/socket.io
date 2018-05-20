@@ -12,3 +12,6 @@ coverage
 .idea
 dist
 .nyc_output
+package-lock.json
+.vscode/launch.json
+examples/chat/package-lock.json
